@@ -1,5 +1,5 @@
 # z/OS® Management Workflow Definitions
-This folder contains sub-folders to provide workflow definitions for different aspects of managing a z/OS system.
+This folder contains sub-folders that provide workflow definitions for different aspects of managing a z/OS system.
 
 The current categories are:
 - Digital Certificate Management
